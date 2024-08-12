@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project uses machine learning techniques to predict earthquake magnitudes based on a dataset of global seismic events. The dataset, `Global_Earthquake_Data.csv`, contains various features related to earthquakes, including magnitude, depth, and location.
+This project uses machine learning techniques to predict earthquake magnitudes based on a dataset of global seismic events. The dataset, `Global_Earthquake_Data.csv`, contains various features related to earthquakes, including magnitude, depth, and location.This project predicts the magnitude of earthquakes using machine learning techniques, leveraging a comprehensive dataset with extensive information. Accurate magnitude prediction plays a crucial role in impact assessment, emergency response, infrastructure design, and scientific research.
 
 ## Dataset
 
